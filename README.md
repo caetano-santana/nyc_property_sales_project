@@ -24,6 +24,8 @@ Power BI to create the final data visualization.
 - "SALE DATE" column: its values had originally "/" as a separator. To input the data with no errors into MySQL, it was changed to yyyymmdd and formatted to text
 - Deletion of rows where "PRICE SALE" > US$10.000
 
+![image](https://github.com/caetano-santana/nyc_property_sales_project/assets/109522632/2c7dfeb2-90e7-4b8f-81bb-f76a26691a43)
+
 ## **SQL analysis summary:**
 - Sales By Year: aggregated data by year_of_sale & borough for overall sales trends over time;
 
@@ -50,3 +52,6 @@ Power BI to create the final data visualization.
 - AVG Sale Price by Property Category: line and stacked columns chart displaying the count of sold properties and avg sales prices by property categories clusters, with the option to filter by type of property (commercial/other & residential);
 
 - Property Types by Borough: line and stacked columns chart displaying the average sales prices & count of sold properties by borough, with the option to filter by building category.
+
+![image](https://github.com/caetano-santana/nyc_property_sales_project/assets/109522632/90e6366d-84dc-4e32-b08a-0608a95f5ffa)
+
