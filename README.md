@@ -1,5 +1,5 @@
-# nyc_property_sales_project
-NYC Property Sales Analysis
+# NYC Property Sales Analysis
+
 ![NYC Property Sales](https://github.com/caetano-santana/nyc_property_sales_project/assets/109522632/5894ab01-2fe5-4589-908e-68148e454a25)
 
 **To access the original data set**, visit the oficial NYC gov site: https://data.cityofnewyork.us/City-Government/NYC-Citywide-Annualized-Calendar-Sales-Update/w2pb-icbu/data_preview
