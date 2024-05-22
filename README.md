@@ -53,10 +53,12 @@ Power BI to create the final data visualization.
 
 - Property Types by Borough: line and stacked columns chart displaying the average sales prices & count of sold properties by borough, with the option to filter by building category.
 
-This is a picture of the interactive dashboard:
+**This is a picture of the interactive dashboard:**
+
 ![image](https://github.com/caetano-santana/nyc_property_sales_project/assets/109522632/90e6366d-84dc-4e32-b08a-0608a95f5ffa)
 
-This is a picture of the interactive dashboard, filtered by some of the boroughs:
+**This is a picture of the interactive dashboard, filtered by some of the boroughs:**
+
 ![Interactive dashboard2](https://github.com/caetano-santana/nyc_property_sales_project/assets/109522632/5b74a6fc-cdb2-4a46-a384-98e7be3863ce)
 
 
